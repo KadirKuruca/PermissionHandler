@@ -7,4 +7,5 @@ sealed class PermissionResult {
         data class RejectedPermanently(val permission: String): PermissionResult()
     }
     object Cancelled: PermissionResult()
+    object Initial: PermissionResult()
 }

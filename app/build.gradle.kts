@@ -52,5 +52,5 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.9")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0")
-    implementation(project(":permission"))
+    implementation(project(":permissionhandler"))
 }

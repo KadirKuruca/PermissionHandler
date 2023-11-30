@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PermissionHandler"
 include(":app")
-include(":permission")
+include(":permissionhandler")

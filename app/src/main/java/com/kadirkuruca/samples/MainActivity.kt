@@ -9,7 +9,6 @@ import androidx.lifecycle.lifecycleScope
 import com.kadirkuruca.permission.PermissionRequestHandler
 import com.kadirkuruca.permission.PermissionResult
 import com.kadirkuruca.samples.databinding.ActivityMainBinding
-import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {

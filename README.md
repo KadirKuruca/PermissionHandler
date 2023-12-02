@@ -33,7 +33,7 @@ Add the following dependency to your project's `build.gradle` file:
 implementation 'com.github.KadirKuruca:PermissionHandler:1.0'
 ```
 
-## Example
+## Usage
 First initialize the `PermissionRequestHandler` with `applicationContext`:
 ```kotlin
 val permissionRequestHandler = PermissionRequestHandler.initialize(applicationContext)

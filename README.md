@@ -7,6 +7,8 @@
 
 This library provides a convenient and easy-to-use solution for handling runtime permissions in Android applications. It is built with Kotlin, Coroutines, Flows, and Channels to provide a modern and asynchronous approach to managing permissions.
 
+<img src="PermissionHandler.gif" width="32%" />
+
 ## Features
 
 - **Simplified API:** Easily request and handle runtime permissions with a simple and concise API.
